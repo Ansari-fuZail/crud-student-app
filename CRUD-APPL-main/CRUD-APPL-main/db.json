@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "khan deepak",
+      "email": "khan@gmail.com"
+    },
+    {
+      "name": "nitin",
+      "email": "nitin@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "change occur",
+      "email": "",
+      "id": 5
+    },
+    {
+      "name": "change occur",
+      "email": "",
+      "id": 10
+    }
+  ]
+}
